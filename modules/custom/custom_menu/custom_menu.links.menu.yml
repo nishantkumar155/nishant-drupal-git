@@ -1,0 +1,10 @@
+menu.demo:
+  title: 'menu1'
+  weight: -10
+  route_name: user.page
+  menu_name: hello
+user.reset:
+  title: 'Reset your password'
+  weight: -8
+  menu_name: hello
+  route_name: user.pass

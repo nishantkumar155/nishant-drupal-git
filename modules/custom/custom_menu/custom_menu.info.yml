@@ -1,0 +1,5 @@
+name: custom menu
+type: module
+description: Generating custom menu
+core: 8.x
+package: Custom
