@@ -1,17 +1,15 @@
-uuid: 04f46f43-366e-439e-96c1-3b9d599548c4
+uuid: 7df8a0b0-6015-4240-b3b1-c6aa1acb6c4a
 langcode: en
 status: true
 dependencies:
   config:
-    - block_content.type.basic
-    - field.field.block_content.basic.body
+    - block_content.type.test_block
+    - field.field.block_content.test_block.body
   module:
     - text
-_core:
-  default_config_hash: zCrrHAjrsQgWjBXBsshAZjND21czBy8sH_L5v_xDKSA
-id: block_content.basic.default
+id: block_content.test_block.default
 targetEntityType: block_content
-bundle: basic
+bundle: test_block
 mode: default
 content:
   body:
