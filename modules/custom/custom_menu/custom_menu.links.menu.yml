@@ -7,4 +7,4 @@ user.reset:
   title: 'Reset your password'
   weight: -8
   menu_name: hello
-  route_name: user.pass
+  route_name: user.pas
